@@ -4,177 +4,177 @@
 		{
 			"Id": "ParamAngleX",
 			"GroupId": "",
-			"Name": "角度 X"
+			"Name": "rad X"
 		},
 		{
 			"Id": "ParamAngleY",
 			"GroupId": "",
-			"Name": "角度 Y"
+			"Name": "rad Y"
 		},
 		{
 			"Id": "ParamAngleZ",
 			"GroupId": "",
-			"Name": "角度 Z"
+			"Name": "rad Z"
 		},
 		{
 			"Id": "ParamBodyAngleX",
 			"GroupId": "",
-			"Name": "身体旋转　X"
+			"Name": "body turn X"
 		},
 		{
 			"Id": "ParamBodyAngleY",
 			"GroupId": "",
-			"Name": "身体旋转　Y"
+			"Name": "body turn Y"
 		},
 		{
 			"Id": "ParamBodyAngleZ",
 			"GroupId": "",
-			"Name": "身体旋转　Z"
+			"Name": "body turn Z"
 		},
 		{
 			"Id": "Param23",
 			"GroupId": "",
-			"Name": "衣服晃动x"
+			"Name": " clothes swingx"
 		},
 		{
 			"Id": "Param22",
 			"GroupId": "",
-			"Name": "衣服 晃动y"
+			"Name": " clothes swingy"
 		},
 		{
 			"Id": "ParamEyeLOpen",
 			"GroupId": "",
-			"Name": "左眼　开闭"
+			"Name": "lefteye openandclose"
 		},
 		{
 			"Id": "ParamEyeLSmile",
 			"GroupId": "",
-			"Name": "左眼　微笑"
+			"Name": "lefteye smile"
 		},
 		{
 			"Id": "ParamEyeROpen",
 			"GroupId": "",
-			"Name": "右眼 开闭"
+			"Name": "righteye openandclose"
 		},
 		{
 			"Id": "ParamEyeRSmile",
 			"GroupId": "",
-			"Name": "右眼　微笑"
+			"Name": "righteye smile"
 		},
 		{
 			"Id": "Param25",
 			"GroupId": "",
-			"Name": "手臂R2旋转"
+			"Name": "armR2 turn"
 		},
 		{
 			"Id": "Param26",
 			"GroupId": "",
-			"Name": "手臂R1旋转"
+			"Name": "armR1 turn"
 		},
 		{
 			"Id": "Param31",
 			"GroupId": "",
-			"Name": "手掌旋转"
+			"Name": "hand turn"
 		},
 		{
 			"Id": "ParamEyeBallX",
 			"GroupId": "",
-			"Name": "眼珠 X"
+			"Name": "eye pig X"
 		},
 		{
 			"Id": "ParamEyeBallY",
 			"GroupId": "",
-			"Name": "眼珠 Y"
+			"Name": "eye pig Y"
 		},
 		{
 			"Id": "ParamBrowLY",
 			"GroupId": "",
-			"Name": "左眉上下"
+			"Name": "leftmei upanddown"
 		},
 		{
 			"Id": "ParamBrowRY",
 			"GroupId": "",
-			"Name": "右眉　上下"
+			"Name": "rightmei  upanddown"
 		},
 		{
 			"Id": "ParamMouthForm",
 			"GroupId": "",
-			"Name": "嘴　变形"
+			"Name": "mouse change"
 		},
 		{
 			"Id": "ParamMouthOpenY",
 			"GroupId": "",
-			"Name": "嘴　张开和闭合"
+			"Name": "mouse openandclose"
 		},
 		{
 			"Id": "Param24",
 			"GroupId": "",
-			"Name": "树叶 晃动"
+			"Name": "leave   swing"
 		},
 		{
 			"Id": "ParamBreath",
 			"GroupId": "",
-			"Name": "呼吸"
+			"Name": "breathe"
 		},
 		{
 			"Id": "Param",
 			"GroupId": "ParamGroup",
-			"Name": "左眼物理"
+			"Name": "lefteye physics"
 		},
 		{
 			"Id": "Param2",
 			"GroupId": "ParamGroup",
-			"Name": "左眼物理2"
+			"Name": "lefteye physics2"
 		},
 		{
 			"Id": "Param3",
 			"GroupId": "ParamGroup",
-			"Name": "左眼高光1"
+			"Name": "lefteye highlight1"
 		},
 		{
 			"Id": "Param4",
 			"GroupId": "ParamGroup",
-			"Name": "左眼高光2"
+			"Name": "lefteye highlight2"
 		},
 		{
 			"Id": "Param5",
 			"GroupId": "ParamGroup",
-			"Name": "左眼高光3"
+			"Name": "lefteye highlight3"
 		},
 		{
 			"Id": "Param6",
 			"GroupId": "ParamGroup",
-			"Name": "左眼高光4"
+			"Name": "lefteye highlight4"
 		},
 		{
 			"Id": "Param7",
 			"GroupId": "ParamGroup2",
-			"Name": "右眼 物理1"
+			"Name": "righteye  physics1"
 		},
 		{
 			"Id": "Param8",
 			"GroupId": "ParamGroup2",
-			"Name": "右眼 物理2"
+			"Name": "righteye  physics2"
 		},
 		{
 			"Id": "Param9",
 			"GroupId": "ParamGroup2",
-			"Name": "右眼 高光1"
+			"Name": "righteye  highlight1"
 		},
 		{
 			"Id": "Param10",
 			"GroupId": "ParamGroup2",
-			"Name": "右眼 高光2"
+			"Name": "righteye  highlight2"
 		},
 		{
 			"Id": "Param11",
 			"GroupId": "ParamGroup2",
-			"Name": "右眼 高光3"
+			"Name": "righteye  highlight3"
 		},
 		{
 			"Id": "Param12",
 			"GroupId": "ParamGroup2",
-			"Name": "右眼 高光4"
+			"Name": "righteye  highlight4"
 		},
 		{
 			"Id": "Param_Angle_Rotation18",
@@ -564,109 +564,109 @@
 		{
 			"Id": "Param13",
 			"GroupId": "ParamGroup17",
-			"Name": "指"
+			"Name": "finger"
 		},
 		{
 			"Id": "Param33",
 			"GroupId": "ParamGroup17",
-			"Name": "掌"
+			"Name": "hand"
 		},
 		{
 			"Id": "Param37",
 			"GroupId": "ParamGroup17",
-			"Name": "双指"
+			"Name": "fingers"
 		},
 		{
 			"Id": "Param14",
 			"GroupId": "ParamGroup17",
-			"Name": "1花旋转"
+			"Name": "1flower turn"
 		},
 		{
 			"Id": "Param19",
 			"GroupId": "ParamGroup17",
-			"Name": "环绕"
+			"Name": "huanrao"
 		},
 		{
 			"Id": "Param32",
 			"GroupId": "ParamGroup17",
-			"Name": "花浮动x"
+			"Name": "flower floatx"
 		},
 		{
 			"Id": "Param29",
 			"GroupId": "ParamGroup17",
-			"Name": "花浮动y"
+			"Name": "flower floaty"
 		},
 		{
 			"Id": "Param15",
 			"GroupId": "ParamGroup17",
-			"Name": "花x"
+			"Name": "flowerx"
 		},
 		{
 			"Id": "Param16",
 			"GroupId": "ParamGroup17",
-			"Name": "花y"
+			"Name": "flowery"
 		},
 		{
 			"Id": "Param34",
 			"GroupId": "ParamGroup17",
-			"Name": "花显示"
+			"Name": "flower appear"
 		},
 		{
 			"Id": "Param20",
 			"GroupId": "ParamGroup17",
-			"Name": "飘动"
+			"Name": "float"
 		},
 		{
 			"Id": "Param35",
 			"GroupId": "ParamGroup17",
-			"Name": "身体 飘动移动"
+			"Name": "body float move"
 		},
 		{
 			"Id": "Param21",
 			"GroupId": "ParamGroup17",
-			"Name": "飘动开关"
+			"Name": "float openandclose"
 		},
 		{
 			"Id": "Param27",
 			"GroupId": "ParamGroup17",
-			"Name": "衣服 晃动y2"
+			"Name": " clothes   swingy2"
 		},
 		{
 			"Id": "Param17",
 			"GroupId": "ParamGroup17",
-			"Name": "e线条流动"
+			"Name": "e xiantiaoliudong"
 		},
 		{
 			"Id": "Param30",
 			"GroupId": "ParamGroup17",
-			"Name": "e  显示"
+			"Name": "e   appear"
 		},
 		{
 			"Id": "Param18",
 			"GroupId": "ParamGroup17",
-			"Name": "e 展开"
+			"Name": "e zhankai"
 		},
 		{
 			"Id": "Param28",
 			"GroupId": "ParamGroup17",
-			"Name": "e 透视"
+			"Name": "e toushi"
 		},
 		{
 			"Id": "Param36",
 			"GroupId": "ParamGroup17",
-			"Name": "吐舌"
+			"Name": "tushe"
 		}
 	],
 	"ParameterGroups": [
 		{
 			"Id": "ParamGroup",
 			"GroupId": "",
-			"Name": "左眼物理"
+			"Name": "lefteye physics"
 		},
 		{
 			"Id": "ParamGroup2",
 			"GroupId": "",
-			"Name": "右眼物理"
+			"Name": "righteye physics"
 		},
 		{
 			"Id": "ParamGroup3",
@@ -741,13 +741,13 @@
 		{
 			"Id": "ParamGroup17",
 			"GroupId": "",
-			"Name": "动画"
+			"Name": "donghua"
 		}
 	],
 	"Parts": [
 		{
 			"Id": "Part4",
-			"Name": "特效.psd"
+			"Name": "texiao.psd"
 		},
 		{
 			"Id": "Part",
@@ -803,51 +803,51 @@
 		},
 		{
 			"Id": "hair_M_Skinning",
-			"Name": "hair_M(蒙皮)"
+			"Name": "hair_M(mengbi)"
 		},
 		{
 			"Id": "hair_R1_Skinning",
-			"Name": "hair_R1(蒙皮)"
+			"Name": "hair_R1(mengbi)"
 		},
 		{
 			"Id": "hair_M_R_Skinning",
-			"Name": "hair_M_R(蒙皮)"
+			"Name": "hair_M_R(mengbi)"
 		},
 		{
 			"Id": "hair_M_L2_Skinning",
-			"Name": "hair_M_L2(蒙皮)"
+			"Name": "hair_M_L2(mengbi)"
 		},
 		{
 			"Id": "hair_L1_dark_Skinning",
-			"Name": "hair_L1_dark(蒙皮)"
+			"Name": "hair_L1_dark(mengbi)"
 		},
 		{
 			"Id": "hair_L1_Skinning",
-			"Name": "hair_L1(蒙皮)"
+			"Name": "hair_L1(mengbi)"
 		},
 		{
 			"Id": "hair_M_L1_Skinning",
-			"Name": "hair_M_L1(蒙皮)"
+			"Name": "hair_M_L1(mengbi)"
 		},
 		{
 			"Id": "hair_R2_Skinning",
-			"Name": "hair_R2(蒙皮)"
+			"Name": "hair_R2(mengbi)"
 		},
 		{
 			"Id": "hair_L2_Skinning",
-			"Name": "hair_L2(蒙皮)"
+			"Name": "hair_L2(mengbi)"
 		},
 		{
 			"Id": "facedark_L1_Skinning2",
-			"Name": "facedark_L1(蒙皮)"
+			"Name": "facedark_L1(mengbi)"
 		},
 		{
 			"Id": "facedark_L1_Skinning",
-			"Name": "facedark_L1(蒙皮)"
+			"Name": "facedark_L1(mengbi)"
 		},
 		{
 			"Id": "hair_L3_Skinning",
-			"Name": "hair_L3(蒙皮)"
+			"Name": "hair_L3(mengbi)"
 		},
 		{
 			"Id": "Part3",
@@ -855,47 +855,47 @@
 		},
 		{
 			"Id": "cloak_L_Skinning",
-			"Name": "cloak_L(蒙皮)"
+			"Name": "cloak_L(mengbi)"
 		},
 		{
 			"Id": "cloak_R_Skinning2",
-			"Name": "cloak_R(蒙皮)"
+			"Name": "cloak_R(mengbi)"
 		},
 		{
 			"Id": "cloak_R_Skinning",
-			"Name": "cloak_R(蒙皮)"
+			"Name": "cloak_R(mengbi)"
 		},
 		{
 			"Id": "cloak_M_Skinning",
-			"Name": "cloak_M(蒙皮)"
+			"Name": "cloak_M(mengbi)"
 		},
 		{
 			"Id": "cloak_L_B_Skinning",
-			"Name": "cloak_L_B(蒙皮)"
+			"Name": "cloak_L_B(mengbi)"
 		},
 		{
 			"Id": "cloak_R_F_Skinning2",
-			"Name": "cloak_R_F(蒙皮)"
+			"Name": "cloak_R_F(mengbi)"
 		},
 		{
 			"Id": "cloak_R_F_Skinning",
-			"Name": "cloak_R_F(蒙皮)"
+			"Name": "cloak_R_F(mengbi)"
 		},
 		{
 			"Id": "hair_S2_F_Skinning",
-			"Name": "hair_S2_F(蒙皮)"
+			"Name": "hair_S2_F(mengbi)"
 		},
 		{
 			"Id": "hair_S2_B_Skinning",
-			"Name": "hair_S2_B(蒙皮)"
+			"Name": "hair_S2_B(mengbi)"
 		},
 		{
 			"Id": "hair_S1_F_Skinning",
-			"Name": "hair_S1_F(蒙皮)"
+			"Name": "hair_S1_F(mengbi)"
 		},
 		{
 			"Id": "hair_S1_Skinning",
-			"Name": "hair_S1(蒙皮)"
+			"Name": "hair_S1(mengbi)"
 		}
 	],
 	"CombinedParameters": [

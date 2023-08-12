@@ -8,14 +8,14 @@
     "CenterY": -0.4120696
   },
   "FileReferences": {
-    "Moc": "草神.moc3",
+    "Moc": "nahida.moc3",
     "Textures": [
-      "草神.4096/texture_00.png",
-      "草神.4096/texture_01.png"
+      "nahida.4096/texture_00.png",
+      "nahida.4096/texture_01.png"
     ],
-    "Physics": "草神.physics3.json",
+    "Physics": "nahida.physics3.json",
     "PhysicsV2": {
-      "File": "草神.physics3.json",
+      "File": "nahida.physics3.json",
       "MaxWeight": 0.752
     },
     "Motions": {
@@ -26,14 +26,14 @@
           "FadeOut": 1000
         }
       ],
-      "Tap花": [
+      "Tapflower": [
         {
           "File": "motions/special.motion3.json",
           "FadeIn": 1000,
           "FadeOut": 0
         }
       ],
-      "Tap头": [
+      "Taphead": [
         {
           "File": "motions/special head.motion3.json"
         }
@@ -107,7 +107,7 @@
     "ParamValue": {
       "Items": [
         {
-          "Name": "飘动幅度",
+          "Name": "float幅度",
           "Ids": [
             "Param21"
           ]
@@ -125,11 +125,11 @@
   },
   "HitAreas": [
     {
-      "Name": "花",
+      "Name": "flower",
       "Id": "ArtMesh"
     },
     {
-      "Name": "头",
+      "Name": "head",
       "Id": "face"
     }
   ],

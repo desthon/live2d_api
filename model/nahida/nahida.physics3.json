@@ -18,7 +18,7 @@
 		"PhysicsDictionary": [
 			{
 				"Id": "PhysicsSetting1",
-				"Name": "眼 物理"
+				"Name": "eye physics"
 			},
 			{
 				"Id": "PhysicsSetting2",
@@ -70,11 +70,11 @@
 			},
 			{
 				"Id": "PhysicsSetting14",
-				"Name": "衣服"
+				"Name": "clothes"
 			},
 			{
 				"Id": "PhysicsSetting15",
-				"Name": "衣服x"
+				"Name": "clothes x"
 			},
 			{
 				"Id": "PhysicsSetting16",
