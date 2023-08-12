@@ -10,21 +10,21 @@
 		"Motions": {
 			"Idle": [
 			  {
-				"File": "expressions/motions/idle for EX.motion3.json",
+				"File": "motions/idle for EX.motion3.json",
 				"FadeIn": 1000,
 				"FadeOut": 1000
 			  }
 			],
-			"Tapflower": [
+			"Tap": [
 			  {
-				"File": "expressions/motions/special.motion3.json",
+				"File": "motions/special.motion3.json",
 				"FadeIn": 1000,
 				"FadeOut": 0
-			  }
-			],
-			"Taphead": [
+			  },
 			  {
-				"File": "expressions/motions/special head.motion3.json"
+				"File": "motions/special head.motion3.json",
+				"FadeIn": 1000,
+				"FadeOut": 0
 			  }
 			]
 		},
@@ -74,7 +74,7 @@
 	"Groups": [
 		{
 			"Target": "Parameter",
-			"Name": "expressions/EyeBlink",
+			"Name": "EyeBlink",
 			"Ids": [
 				"ParamEyeLOpen",
 				"ParamEyeROpen"
@@ -82,7 +82,7 @@
 		},
 		{
 			"Target": "Parameter",
-			"Name": "expressions/LipSync",
+			"Name": "LipSync",
 			"Ids": [
 				"ParamMouthOpenY"
 			]
