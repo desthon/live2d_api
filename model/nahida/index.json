@@ -1,54 +1,63 @@
 {
 	"Version": 3,
-	"FileReferences": {
-		"Moc": "草神.moc3",
-		"Textures": [
-			"草神.8192/texture_00.png"
-		],
-		"Physics": "草神.physics3.json",
-		"DisplayInfo": "草神.cdi3.json",
-		"Expressions": [
-			{
-				"Name": "黑.exp3.json",
-				"File": "黑.exp3.json"
-			},
-			{
-				"Name": "脸红.exp3.json",
-				"File": "脸红.exp3.json"
-			},
-			{
-				"Name": "生气.exp3.json",
-				"File": "生气.exp3.json"
-			},
-			{
-				"Name": "星星.exp3.json",
-				"File": "星星.exp3.json"
-			},
-			{
-				"Name": "泪.exp3.json",
-				"File": "泪.exp3.json"
-			},
-			{
-				"Name": "姿势1.exp3.json",
-				"File": "姿势1.exp3.json"
-			},
-			{
-				"Name": "姿势2.exp3.json",
-				"File": "姿势2.exp3.json"
-			},
-			{
-				"Name": "姿势3.exp3.json",
-				"File": "姿势3.exp3.json"
-			},
-			{
-				"Name": "叶子.exp3.json",
-				"File": "叶子.exp3.json"
-			},
-			{
-				"Name": "发光.exp3.json",
-				"File": "发光.exp3.json"
-			}
-		]
+	"Moc": "草神.moc3",
+	"Textures": [
+		"草神.8192/texture_00.png"
+	],
+	"Physics": "草神.physics3.json",
+	"DisplayInfo": "草神.cdi3.json",
+	"Expressions": [
+		{
+			"Name": "黑.exp3.json",
+			"File": "黑.exp3.json"
+		},
+		{
+			"Name": "脸红.exp3.json",
+			"File": "脸红.exp3.json"
+		},
+		{
+			"Name": "生气.exp3.json",
+			"File": "生气.exp3.json"
+		},
+		{
+			"Name": "星星.exp3.json",
+			"File": "星星.exp3.json"
+		},
+		{
+			"Name": "泪.exp3.json",
+			"File": "泪.exp3.json"
+		},
+		{
+			"Name": "姿势1.exp3.json",
+			"File": "姿势1.exp3.json"
+		},
+		{
+			"Name": "姿势2.exp3.json",
+			"File": "姿势2.exp3.json"
+		},
+		{
+			"Name": "姿势3.exp3.json",
+			"File": "姿势3.exp3.json"
+		},
+		{
+			"Name": "叶子.exp3.json",
+			"File": "叶子.exp3.json"
+		},
+		{
+			"Name": "发光.exp3.json",
+			"File": "发光.exp3.json"
+		}
+	],
+	"layout":{ // 新增 调整模型位置及长宽
+    	"center_x": 0,
+    	"center_y": 0,
+    	"width": 1.8
+	},
+	"hit_areas_custom":{ // 新增 模型的点击感应位置
+		"head_x":[-0.35, 0.6],
+		"head_y":[0.19, -0.2],
+		"body_x":[-0.3, -0.25],
+		"body_y":[0.3, -0.9]
 	},
 	"Groups": [
 		{
@@ -66,6 +75,5 @@
 				"ParamMouthOpenY"
 			]
 		}
-	],
-	"HitAreas": []
+	]
 }
