@@ -1,0 +1,29 @@
+{
+	"version": 3,
+	"model": "Nahida_1080.moc3",
+	"textures": [
+		"Nahida_1080.1024/texture_00.png",
+		"Nahida_1080.1024/texture_01.png",
+		"Nahida_1080.1024/texture_02.png",
+		"Nahida_1080.1024/texture_03.png"
+	],
+	"physics": "Nahida_1080.physics3.json",
+	"displayInfo": "Nahida_1080.cdi3.json",
+	"groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	]
+}
